@@ -1,0 +1,9 @@
+Iteration 1 Breakdown of Responsibilities
+
+Task:
+  Create Floor subsystem --> Alexander 
+  Create Elevators --> Dan 
+  Create Scheduler --> Liam and Huiran
+  Create test case --> Huiran 
+  Create Buffer -->Huiran
+  Create UML, sequence diagram --> Sean 

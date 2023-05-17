@@ -1,0 +1,7 @@
+Iteration 2 Breakdown of Responsibilities
+
+Task:
+  Create Scheduler State Machine --> Alexander
+  Update Floor class --> Alexander
+  Create Elevator State Machine --> Dan
+  Update UML, sequence diagram, create state machine diagram --> Sean 
